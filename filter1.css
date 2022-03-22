@@ -1,6 +1,6 @@
 .logobar{
     background-color:#CE0505 ;
-    height: 75px;
+    height: 80px;
 }
 .buttoncontainer{
     text-align: right;
@@ -17,8 +17,8 @@
         margin-top: 0px;
 }
 #circle{
-    width: 35px;
-    height: 35px;
+    width: 45px;
+    height: 45px;
     border-radius: 50%;
     background-color: #ffffff;
     display: inline-block;
@@ -26,7 +26,7 @@
     font-size: 30px;
     font-weight: 600;
     text-align: center;
-    margin-left: 30px;
+    margin-left: 50px;
 color:
 #CE0505;
 }
@@ -34,7 +34,7 @@ color:
 .heading {
     font-family: Poppins;
     font-size: 36px;
-    font-weight: bold;
+    font-weight: bolder;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.53;
